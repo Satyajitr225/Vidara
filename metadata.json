@@ -1,0 +1,6 @@
+{
+  "name": "Vidara",
+  "description": "An execution-first learning and accountability platform for builders and founders to learn, execute, and become.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
